@@ -1,3 +1,0 @@
-# README
-
-asdopasjdsadasdasfsdg98sqp
