@@ -24,6 +24,6 @@
 
 ###
 
-<img align="center" height="400" src="https://www.letuverie.com/wp-content/uploads/2019/12/DET-ail-noir-1024x680.png"  />
+<img align="center" height="250" src="https://www.letuverie.com/wp-content/uploads/2019/12/DET-ail-noir-1024x680.png"  />
 
 ###
