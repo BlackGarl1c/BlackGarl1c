@@ -24,6 +24,8 @@
 
 ###
 
-<img align="center" height="250" src="https://www.letuverie.com/wp-content/uploads/2019/12/DET-ail-noir-1024x680.png"  />
+<div align="center">
+  <img height="250" src="https://www.letuverie.com/wp-content/uploads/2019/12/DET-ail-noir-1024x680.png" alt="Black garlic image" />
+</div>
 
 ###
