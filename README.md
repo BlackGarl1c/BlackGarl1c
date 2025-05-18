@@ -10,11 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="https://www.letuverie.com/wp-content/uploads/2019/12/DET-ail-noir-1024x680.png"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="140" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="140" alt="cplusplus logo"  />
@@ -25,3 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="140" alt="python logo"  />
 </div>
+
+###
+
+<img align="center" height="400" src="https://www.letuverie.com/wp-content/uploads/2019/12/DET-ail-noir-1024x680.png"  />
+
+###
