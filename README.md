@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Yo 👋! My name is BlackGarl1c, I'm a hacker, game developer, entrepreneur, data analyst.</h2>
+<h2 align="left">Hello, My name is BlackGarl1c. I am a cybersecurity professional, game developer, entrepreneur, and data analyst with a passion for leveraging technology to create innovative solutions.</h2>
 
 ###
 
