@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hello, My name is BlackGarl1c. I am 15 years old who is a cybersecurity professional, game developer, entrepreneur, and data analyst with a passion for leveraging technology to create innovative solutions.</h2>
+<h2 align="left">Hello, My name is BlackGarl1c. I am a 15 years old who is a cybersecurity professional, game developer, entrepreneur, and data analyst with a passion for leveraging technology to create innovative solutions.</h2>
 
 ###
 
